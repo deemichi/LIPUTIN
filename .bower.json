@@ -1,0 +1,14 @@
+{
+  "name": "LIPUTIN",
+  "homepage": "https://github.com/deemichi/LIPUTIN",
+  "_release": "ab69d001f7",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "ab69d001f7401a3cfe180431a3eb9956ad111c4a"
+  },
+  "_source": "https://github.com/deemichi/LIPUTIN.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/deemichi/LIPUTIN.git",
+  "_direct": true
+}
