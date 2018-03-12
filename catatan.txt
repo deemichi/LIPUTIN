@@ -1,0 +1,18 @@
+Aplikasi humas setkab
+
+1. Struktur database
+tabel_jadwal
+id int
+nama varchar
+no_hp int
+email varchar
+keg varchar 
+tgl datetime
+unit_kerja varchar
+lokasi text
+jenis_liputan varchar
+petugas varchar
+
+2. tampilan home
+view kegiatan, klik detial kegiatan
+
